@@ -1,4 +1,3 @@
-<img align="right" width="30%">
 <p align="center">
     <img align="right" width="30%">
     <br><br>
@@ -15,5 +14,11 @@
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> 
     <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+    <br><br>
+    <a href="https://discord.gg/https://discord.com/user/1208488737248645190">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
+    </a>
+    <a href="https://instagram.com/https://www.instagram.com/korbilayim">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+    </a>
 </p>
-
