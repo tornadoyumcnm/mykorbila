@@ -3,7 +3,7 @@
 <br><br>
 <p align="center">
 <br><br>
-<img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+👋%2C+I'm+Korbila">
+<img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+👋%2C+I'm+Korbila"><br>
 <samp>
 My Purpose of Spreading the Bots Here is for People to Improve, Look and Learn Things from Here.<br>
 New infrastructures are coming soon, Get Ready!<br>
