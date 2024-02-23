@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> 
     <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
     <br><br>
-    <a href="https://discord.com/user/1208488737248645190">
+    <a href="https://discord.com/channels/@me/1210349534434299977">
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
     </a>
     <a href="https://instagram.com/korbilayim">
