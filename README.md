@@ -10,3 +10,7 @@ New infrastructures are coming soon, Get Ready!<br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=mykorbila">
 </p>
+
+![](https://github-readme-stats.vercel.app/api?username=mykorbila&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mykorbila&theme=highcontrast&hide_border=false)<br/>
+
